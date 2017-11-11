@@ -12,5 +12,9 @@ public class AkabaneController {
     public String start(HttpSession session) {
         return "Hello Akabane";
     }
+    @RequestMapping("/hongsik")
+    public String start2(HttpSession session) {
+        return "Hello Hongsik";
+    }
 
 }
