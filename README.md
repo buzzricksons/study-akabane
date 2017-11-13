@@ -1,2 +1,2 @@
-# study-akabane
-Study for Spring.
+# Spring studty
+Repository for Spring study.
