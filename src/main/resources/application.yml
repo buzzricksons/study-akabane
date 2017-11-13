@@ -1,2 +1,7 @@
 server:
   port: 8081
+
+flyway:
+  url: jdbc:h2:file:./foobardb
+  user: SA
+  password:
